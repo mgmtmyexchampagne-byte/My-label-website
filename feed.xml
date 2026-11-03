@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pour EveryThing Records — Releases &amp; News</title>
+    <link>https://poureverything.com/</link>
+    <description>Official releases and updates from Pour EveryThing Records and its artists.</description>
+    <language>en-us</language>
+    <atom:link href="https://poureverything.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>myexxchampagne — Yes I’m Single.</title>
+      <link>https://poureverything.com/#yes-im-single</link>
+      <description>The debut single from Pour EveryThing Records flagship artist myexxchampagne, released October 2, 2026.</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://poureverything.com/#yes-im-single</guid>
+    </item>
+  </channel>
+</rss>
